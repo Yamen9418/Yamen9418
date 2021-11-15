@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yamen9418
+- 👋 Hi, I’m Yamen. 
 - 👀 I’m interested in programming, AI and developing. 
 - 🌱 I’m currently reading my MSc in Computer Engineering.
 - 🌱 I’m currently working on research on how to test Machine Learning systems.
