@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Yamen9418
 - 👀 I’m interested in programming, AI and developing. 
 - 🌱 I’m currently reading my MSc in Computer Engineering.
+- 🌱 I’m currently working on research on how to test Machine Learning systems.
 - 💞️ I’m looking to collaborate on fun projects. 
 - 📫 How to reach me: www.linkedin.com/in/yamen-albdeiwi-442336179 
 
