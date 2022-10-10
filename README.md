@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yamen. 
-- 👀 I’m interested in programming, AI, robotics and developing. 
+- 👀 I’m interested in programming, AI, robotics, machine learning  and developing. 
 - 🌱 I’m currently reading my MSc in Computer Engineering, ML.
 - 🌱 I’m currently working on developing a game using LibGDX and making a small robot using DNN, stay tuned!
-- 💞️ I’m looking to collaborate on fun AI projects and cool games. 
+- 💞️ I’m looking to collaborate on fun AI/ML projects and cool games. 
 - 📫 How to reach me: www.linkedin.com/in/yamen-albdeiwi-442336179 
 
 <!---
